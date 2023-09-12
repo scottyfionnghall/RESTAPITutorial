@@ -1,0 +1,20 @@
+[
+    {
+        "id": "9f336e8d-433c-4f7d-a33f-893f03bb209b",
+        "title": "Time \u0026 Space",
+        "artist": "Turnstile",
+        "price": 49.99
+    },
+    {
+        "id": "423f3659-6975-44c3-92c5-7bf4df596449",
+        "title": "Glow On",
+        "artist": "Turnstile",
+        "price": 34.99
+    },
+    {
+        "id": "7e8ddcdd-5cb4-4346-b9d3-7357b3373d9c",
+        "title": "Between the Richness",
+        "artist": "Fiddlehead",
+        "price": 39.99
+    }
+]
